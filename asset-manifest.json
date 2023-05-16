@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calc-react-milad/static/css/main.9f7e326c.css",
+    "main.js": "/calc-react-milad/static/js/main.606ccf67.js",
+    "static/js/787.bb27b1fd.chunk.js": "/calc-react-milad/static/js/787.bb27b1fd.chunk.js",
+    "index.html": "/calc-react-milad/index.html",
+    "main.9f7e326c.css.map": "/calc-react-milad/static/css/main.9f7e326c.css.map",
+    "main.606ccf67.js.map": "/calc-react-milad/static/js/main.606ccf67.js.map",
+    "787.bb27b1fd.chunk.js.map": "/calc-react-milad/static/js/787.bb27b1fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f7e326c.css",
+    "static/js/main.606ccf67.js"
+  ]
+}
